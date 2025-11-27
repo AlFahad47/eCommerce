@@ -49,11 +49,9 @@ npm run dev
 
 ## 📂 Route Summary
 
-Public Routes
+### Public Routes
 
-.
-
-### Path  and Description
+ Path  and Description
 
 /  
 Home Page – Hero section, brand values, and "New Arrivals" feed. 
